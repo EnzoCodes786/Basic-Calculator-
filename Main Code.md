@@ -1,5 +1,5 @@
-# Basic-Calculator-
-basic calculator using c++
+//# Basic-Calculator-
+//basic calculator using c++
 #include<iostream>
 using namespace std;
 int main(){
